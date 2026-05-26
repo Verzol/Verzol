@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 🎓 **Education:** Junior Information Systems student at University of Engineering and Technology (UET), Vietnam National University (VNU)  
-<br>🔍 **Interests:** Data Engineering & Software Development.  
-<br>📊 **Currently learning:** Apache Spark, Kafka, MinIO, Docker, and cloud-based data platforms.  
-<br>📩 **Contact me through:** giangtuanminh2703@gmail.com
+🔍 **Interests:** Data Engineering & Software Development.  
+📊 **Currently learning:** Apache Spark, Kafka, MinIO, Docker, and cloud-based data platforms.  
+📩 **Contact me through:** giangtuanminh2703@gmail.com
 
 ---
 
