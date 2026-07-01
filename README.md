@@ -5,12 +5,8 @@
 📧 <a href="mailto:giangtuanminh2703@gmail.com">giangtuanminh2703@gmail.com</a>
 </p>
 
-<br>
-
 ## 🧠 About
 Currently sharpening skills in data analysis and reporting, with a growing interest in how data drives product decisions. Learning to bridge the gap between "what the data says" and "what the product should do next".
-
-<br>
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,8 +16,6 @@ Currently sharpening skills in data analysis and reporting, with a growing inter
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-<br>
 
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gtm2703-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gtm2703/)
