@@ -1,30 +1,36 @@
-# Hi, I'm Giang Tuan Minh
+# Giang Tuan Minh
+Junior in Information Systems @ University of Engineering and Technology - UET - VNU  | Data Analyst/Engineer | Interested in Product Management
 
-# 💫 About Me:
-🎓 **Education:** Junior Information Systems student at University of Engineering and Technology (UET), Vietnam National University (VNU)  
-🔍 **Interests:** Data Engineering & Software Development.  
-📊 **Currently learning:** Apache Spark, Kafka, MinIO, Docker, and cloud-based data platforms.  
-📩 **Contact me through:** giangtuanminh2703@gmail.com
+📧 giangtuanminh2703@gmail.com
 
 ---
 
-# 💻 Technical Skills
+## About
+Currently sharpening skills in data analysis and reporting, with a growing interest in how data drives product decisions. Learning to bridge the gap between "what the data says" and "what the product should do next".
 
+---
+
+## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
-# 🌐 Connect with Me
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Verzol&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verzol&layout=compact&hide_border=true)
 
+---
+
+## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gtm2703-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gtm2703/)
-[![Email](https://img.shields.io/badge/Email-giangtuanminh2703%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giangtuanminh2703@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-minh.giangtuan.3-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/minh.giangtuan.3/)
 [![Instagram](https://img.shields.io/badge/Instagram-gtm2703-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gtm2703/)
