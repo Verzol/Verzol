@@ -21,12 +21,6 @@ Currently sharpening skills in data analysis and reporting, with a growing inter
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-pink.vercel.app/api?username=Verzol&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=Verzol&layout=compact&hide_border=true)
-
----
-
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gtm2703-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gtm2703/)
 [![Facebook](https://img.shields.io/badge/Facebook-minh.giangtuan.3-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/minh.giangtuan.3/)
